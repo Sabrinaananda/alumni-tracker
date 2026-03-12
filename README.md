@@ -51,7 +51,7 @@ alumni-tracker
 
 # Cara Menjalankan Project
 1. Clone Repository
-git clone https://github.com/USERNAME/alumni-tracker.git
+git clone https://github.com/Sabrinaananda/alumni-tracker.git
 
 Masuk ke folder project:
 cd alumni-tracker
